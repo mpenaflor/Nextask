@@ -9,29 +9,34 @@ A simple and modern task management app built with **SwiftUI**, designed for man
 > Replace the image paths with your own screenshots
 
 ### Authentication
-
-![Login](images/login.png)
-![Register](images/register.png)
+<p align="left">
+  <img src="images/login.png" width="250">
+  <img src="images/register.png" width="250">
+</p>
 
 ### Tasks
-
-![Tasks](images/tasks.png)
+<p align="left">
+  <img src="images/tasks.png" width="250">
+</p>
 
 ### People
-
-![Tasks](images/people.png)
-![Tasks](images/people_profile.png)
+<p align="left">
+  <img src="images/people.png" width="250">
+  <img src="images/people_profile.png" width="250">
+</p>
 
 ### Businesses
-
-![Tasks](images/businesses.png)
-![Tasks](images/business_details.png)
+<p align="left">
+  <img src="images/businesses.png" width="250">
+  <img src="images/business_details.png" width="250">
+</p>
 
 ### Profile / Settings
-
-![Profile](images/settings.png)
-![Profile](images/tags.png)
-![Profile](images/categories.png)
+<p align="left">
+  <img src="images/settings.png" width="250">
+  <img src="images/tags.png" width="250">
+  <img src="images/categories.png" width="250">
+</p>
 
 ---
 
