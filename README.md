@@ -8,18 +8,30 @@ A simple and modern task management app built with **SwiftUI**, designed for man
 
 > Replace the image paths with your own screenshots
 
-### 🔐 Authentication
+### Authentication
 
 ![Login](images/login.png)
 ![Register](images/register.png)
 
-### 📋 Tasks
+### Tasks
 
 ![Tasks](images/tasks.png)
 
-### 👤 Profile
+### People
 
-![Profile](images/profile.png)
+![Tasks](images/people.png)
+![Tasks](images/people_profile.png)
+
+### Businesses
+
+![Tasks](images/businesses.png)
+![Tasks](images/business_details.png)
+
+### Profile / Settings
+
+![Profile](images/settings.png)
+![Profile](images/tags.png)
+![Profile](images/categories.png)
 
 ---
 
@@ -41,21 +53,6 @@ A simple and modern task management app built with **SwiftUI**, designed for man
 * **Firebase Authentication**
 * **Core Data**
 * **MVVM Architecture**
-
----
-
-## 🧱 Project Structure
-
-```
-Nextask/
-├── App/
-├── Views/
-├── ViewModels/
-├── Models/
-├── Managers/
-├── Utils/
-└── Resources/
-```
 
 ---
 
