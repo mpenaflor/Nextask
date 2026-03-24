@@ -6,8 +6,6 @@ A simple and modern task management app built with **SwiftUI**, designed for man
 
 ## 📱 Screenshots
 
-> Replace the image paths with your own screenshots
-
 ### Authentication
 <p align="left">
   <img src="images/login.png" width="250">
