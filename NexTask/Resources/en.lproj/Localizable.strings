@@ -1,0 +1,158 @@
+/* 
+  Localizable.strings
+  NexTask
+
+  Created by Mai Peñaflor on 2026-03-21.
+  
+*/
+
+// General
+"general.save" = "Save";
+"general.cancel" = "Cancel";
+"general.delete" = "Delete";
+"general.edit" = "Edit";
+"general.done" = "Done";
+"general.error" = "Error";
+"general.ok" = "OK";
+"general.none" = "None";
+"general.search" = "Search";
+"general.noResults" = "No results";
+
+
+// Authentication
+"auth.login" = "Log In";
+"auth.signup" = "Sign up";
+"auth.email" = "Email";
+"auth.password" = "Password";
+"auth.confirmPassword" = "Confirm Password";
+"auth.login.link" = "Already have an account? Log In";
+"auth.register.error.title" = "Register Error";
+"auth.login.error.title" = "Login Error";
+"auth.login.greeting" = "Hello.";
+"auth.register.greeting" = "Create account";
+"auth.register.link" = "Don't have an account? Sign Up";
+"auth.logout.title" = "Log out";
+"auth.logout.warning.message" = "Are you sure you want to log out?";
+"auth.profile.section.title" = "Account";
+
+
+// Error
+"error.validation.invalidEmail" = "Please enter a valid email address";
+"error.validation.title" = "Validation Error";
+"error.validation.email" = "This email is already in use. Please try a different one.";
+"error.validation.name" = "This name is already in use. Please choose a different one.";
+
+
+// Tasks
+"tasks.title" = "Tasks";
+"tasks.empty.title" = "No tasks found";
+"tasks.empty.message" = "Tap + to create a task";
+
+"tasks.untitled" = "Untitled";
+
+"tasks.add" = "Add Task";
+"tasks.details" = "Task Details";
+
+"tasks.form.section.info" = "Task Info";
+"tasks.form.section.assignee" = "Assign To";
+
+"tasks.field.title" = "Title";
+"tasks.field.description" = "Description";
+"tasks.field.status" = "Status";
+"tasks.field.assignee" = "Assignee";
+
+"tasks.assignee.picker.title" = "Select Assignee";
+
+"tasks.status.open" = "Open";
+"tasks.status.completed" = "Completed";
+
+"tasks.status.button.reopen" = "Re-open";
+"tasks.status.button.complete" = "Mark Complete";
+
+"tasks.assigned.count" = "Assigned (%d)";
+
+// Settings
+"settings.title" = "Settings";
+
+// Tags
+"tags.title" = "Tags";
+"tags.empty.title" = "No Tags";
+"tags.empty.message" = "Tap + to add a tag";
+
+"tags.add" = "Add Tag";
+"tags.details" = "Tag Details";
+
+"tags.field.name" = "Tag Name";
+"tags.untitled" = "Untitled";
+
+"tags.delete.alert.title" = "Delete Tag?";
+
+// People
+"people.title" = "People";
+"people.empty.title" = "No people found";
+"people.empty.message" = "Tap + to add a person";
+
+"people.unknown" = "Unknown";
+
+"people.add" = "Add Person";
+"people.details" = "Person Details";
+
+"people.section.name" = "Name";
+"people.section.contact" = "Contact";
+"people.section.business" = "Business";
+
+"people.field.firstname" = "First name";
+"people.field.lastname" = "Last name";
+"people.field.email" = "Email";
+"people.field.phone" = "Phone";
+
+"people.sheet.title.business" = "Select Business";
+"people.sheet.title.tags" = "Select Tags";
+
+"people.tags.selected.count" = "%d selected";
+
+// Business
+"business.title" = "Businesses";
+"business.empty.title" = "No business found";
+"business.empty.message" = "Tap + to add a business";
+
+"business.unknown" = "Unknown Business";
+
+"business.add" = "Add Business";
+"business.details" = "Business Details";
+
+"business.info" = "Business Info";
+"business.field.name" = "Business name";
+"business.field.email" = "Contact email";
+"business.field.categories" = "Categories";
+"business.field.tags" = "Tags";
+
+"business.sheet.title.categories" = "Select Categories";
+"business.sheet.title.tags" = "Select Tags";
+
+// Categories
+"categories.title" = "Categories";
+"categories.empty.title" = "No categories found";
+"categories.empty.message" = "Tap + to add a category";
+
+"categories.add" = "Add Category";
+"categories.details" = "Category Details";
+
+"categories.field.name" = "Category Name";
+"categories.untitled" = "Untitled";
+
+"categories.delete.alert.title" = "Delete Category?";
+
+
+// Errors
+"error.required_field" = "This field is required";
+"error.duplicate_tag" = "Tag already exists";
+"error.duplicate_category" = "Category already exists";
+"error.save_failed" = "Failed to save data";
+
+// Alerts
+"alert.delete.title" = "Delete";
+"alert.delete.message" = "Are you sure you want to delete this item?";
+
+"alert.discard.title" = "Discard Changes";
+"alert.discard.message" = "Are you sure you want to discard changes?";
